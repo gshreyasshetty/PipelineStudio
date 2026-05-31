@@ -17,7 +17,7 @@ Enterprise IT and InfoSec teams pull data from dozens of external APIs (Microsof
 
 PipelineStudio replaces this repetitive 4-step manual process with a single guided workflow.
 
-![PipelineStudio Overview](readme/pipeline-studio-overview.png)
+![PipelineStudio Overview](<img width="1890" height="851" alt="PineLineBuilder" src="https://github.com/user-attachments/assets/5dfd3d4d-6d21-4d76-a61f-5e716116e5b4" />)
 
 ---
 
@@ -122,7 +122,7 @@ After pipelines are deployed, a **Streamlit-on-Snowflake dashboard** provides re
 | **Permission Issues** | Dedicated page that detects permission-related failures, extracts role names from errors, and suggests `GRANT` SQL statements |
 | **Non-Pipeline Tasks** | Separate view for utility/maintenance tasks not tied to a data pipeline |
 
-![Pipeline Monitoring Dashboard Overview](readme/PipelineMonitoring.png)
+![Pipeline Monitoring Dashboard Overview](<img width="1792" height="859" alt="PipelineMonitoring" src="https://github.com/user-attachments/assets/40ee5403-4e89-4729-819f-2801127e9951" />)
 
 ### How Pipeline Discovery Works
 
